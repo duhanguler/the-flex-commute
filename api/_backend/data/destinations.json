@@ -1,0 +1,204 @@
+{
+  "london": [
+    {
+      "id": "ucl",
+      "name": "UCL — University College London",
+      "shortName": "UCL Bloomsbury",
+      "category": "university",
+      "subtitle": "Gower Street, WC1E · Bloomsbury",
+      "lat": 51.5246,
+      "lng": -0.1340
+    },
+    {
+      "id": "imperial",
+      "name": "Imperial College London",
+      "shortName": "Imperial College",
+      "category": "university",
+      "subtitle": "Exhibition Road, SW7 · South Kensington",
+      "lat": 51.4988,
+      "lng": -0.1749
+    },
+    {
+      "id": "lse",
+      "name": "LSE — London School of Economics",
+      "shortName": "LSE Holborn",
+      "category": "university",
+      "subtitle": "Houghton Street, WC2A · Aldwych",
+      "lat": 51.5144,
+      "lng": -0.1165
+    },
+    {
+      "id": "kcl",
+      "name": "King's College London (Strand)",
+      "shortName": "King's College",
+      "category": "university",
+      "subtitle": "Strand, WC2R · Temple",
+      "lat": 51.5115,
+      "lng": -0.1160
+    },
+    {
+      "id": "lbs",
+      "name": "London Business School",
+      "shortName": "LBS Regent's Park",
+      "category": "university",
+      "subtitle": "Sussex Place, NW1 · Baker Street",
+      "lat": 51.5263,
+      "lng": -0.1605
+    },
+    {
+      "id": "qmul",
+      "name": "Queen Mary University of London",
+      "shortName": "Queen Mary",
+      "category": "university",
+      "subtitle": "Mile End Road, E1 · Mile End",
+      "lat": 51.5241,
+      "lng": -0.0403
+    },
+    {
+      "id": "canary_wharf_hub",
+      "name": "Canary Wharf Financial District",
+      "shortName": "Canary Wharf",
+      "category": "workplace",
+      "subtitle": "One Canada Square, E14 · Finance & Tech",
+      "lat": 51.5049,
+      "lng": -0.0195
+    },
+    {
+      "id": "city_bank",
+      "name": "City of London (Bank / Bishopsgate)",
+      "shortName": "City / Bank",
+      "category": "workplace",
+      "subtitle": "Threadneedle Street, EC2R · Square Mile",
+      "lat": 51.5138,
+      "lng": -0.0884
+    },
+    {
+      "id": "kings_cross_tech",
+      "name": "King's Cross Tech Quarter",
+      "shortName": "King's Cross Hub",
+      "category": "workplace",
+      "subtitle": "Pancras Square, N1C · Google / DeepMind / Meta",
+      "lat": 51.5346,
+      "lng": -0.1258
+    },
+    {
+      "id": "soho_west_end",
+      "name": "Soho & Oxford Circus",
+      "shortName": "Soho / West End",
+      "category": "workplace",
+      "subtitle": "Great Marlborough Street, W1F · Media & AI",
+      "lat": 51.5141,
+      "lng": -0.1376
+    },
+    {
+      "id": "old_street_hub",
+      "name": "Old Street & Shoreditch Tech Hub",
+      "shortName": "Silicon Roundabout",
+      "category": "workplace",
+      "subtitle": "City Road, EC1V · Startups & Fintech",
+      "lat": 51.5256,
+      "lng": -0.0879
+    },
+    {
+      "id": "paddington_basin",
+      "name": "Paddington Basin Corporate Hub",
+      "shortName": "Paddington Basin",
+      "category": "workplace",
+      "subtitle": "Kingdom Street, W2 · West London HQ",
+      "lat": 51.5192,
+      "lng": -0.1806
+    }
+  ],
+  "paris": [
+    {
+      "id": "la_defense_hub",
+      "name": "La Défense Business District",
+      "shortName": "La Défense",
+      "category": "workplace",
+      "subtitle": "Parvis de La Défense · Europe's largest CBD",
+      "lat": 48.8924,
+      "lng": 2.2369
+    },
+    {
+      "id": "station_f",
+      "name": "Station F Startup Campus",
+      "shortName": "Station F",
+      "category": "workplace",
+      "subtitle": "Parvis Alan Turing, 75013 · Tech & Venture",
+      "lat": 48.8344,
+      "lng": 2.3709
+    },
+    {
+      "id": "opera_bourse",
+      "name": "Opéra & Bourse Corporate Core",
+      "shortName": "Opéra / Bourse",
+      "category": "workplace",
+      "subtitle": "Place de l'Opéra, 75009 · Finance & SaaS",
+      "lat": 48.8705,
+      "lng": 2.3335
+    },
+    {
+      "id": "sentier_tech",
+      "name": "Silicon Sentier & Réaumur",
+      "shortName": "Sentier Tech",
+      "category": "workplace",
+      "subtitle": "Rue du Sentier, 75002 · Scale-ups",
+      "lat": 48.8685,
+      "lng": 2.3468
+    },
+    {
+      "id": "issy_val",
+      "name": "Issy-les-Moulineaux Media & Tech",
+      "shortName": "Issy Tech Hub",
+      "category": "workplace",
+      "subtitle": "Boulevard Gallieni, 92130 · Microsoft / Capgemini",
+      "lat": 48.8260,
+      "lng": 2.2720
+    },
+    {
+      "id": "sorbonne",
+      "name": "Sorbonne Université (Quartier Latin)",
+      "shortName": "Sorbonne",
+      "category": "university",
+      "subtitle": "Rue Victor Cousin, 75005 · 5e Arrondissement",
+      "lat": 48.8486,
+      "lng": 2.3435
+    },
+    {
+      "id": "sciences_po",
+      "name": "Sciences Po Paris",
+      "shortName": "Sciences Po",
+      "category": "university",
+      "subtitle": "27 Rue Saint-Guillaume, 75007 · Saint-Germain",
+      "lat": 48.8540,
+      "lng": 2.3284
+    },
+    {
+      "id": "paris_dauphine",
+      "name": "Université Paris-Dauphine PSL",
+      "shortName": "Paris-Dauphine",
+      "category": "university",
+      "subtitle": "Place du Maréchal de Lattre, 75016",
+      "lat": 48.8702,
+      "lng": 2.2738
+    },
+    {
+      "id": "escp",
+      "name": "ESCP Business School",
+      "shortName": "ESCP République",
+      "category": "university",
+      "subtitle": "79 Avenue de la République, 75011",
+      "lat": 48.8644,
+      "lng": 2.3806
+    },
+    {
+      "id": "cite_u",
+      "name": "Cité Internationale Universitaire",
+      "shortName": "Cité Universitaire",
+      "category": "university",
+      "subtitle": "17 Boulevard Jourdan, 75014",
+      "lat": 48.8206,
+      "lng": 2.3382
+    }
+  ]
+}
